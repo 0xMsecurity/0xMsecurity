@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JS,GO,PY**
 
-- 📝 I regularly write articles on [https://msec.bh/](https://msec.bh/)
+- 📝 I regularly write articles on [cyberbh]https://medium.com/@cyberbh)
 
 - 💬 Ask me about **Cybersecurity**
 
